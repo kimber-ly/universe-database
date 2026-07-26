@@ -1,2 +1,2 @@
 # universe-database
-This database is built to complete freeCodeCamp Celestial Bodies Database Challenge 🚀
+This database was built to complete freeCodeCamp's Celestial Bodies Database Challenge 🚀
